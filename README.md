@@ -8,4 +8,4 @@
 ### ejer5: al alcanzar el monstruo alguna silla todas las arañas se dirijan a él.
 ![Gif consola](sesion1/examenviernessesion1ejer5.gif)
 ### ejer6: configurar cardboard.
-![Gif consola](ejer5gif.gif)
+![Imagen de ejemplo](sesion2/1descargarCardboard.png)
