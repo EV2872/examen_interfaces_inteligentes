@@ -3,9 +3,9 @@
 ![Gif consola](sesion1/examenviernessesion1ejer2.gif)
 ### ejer3: cuando pulsa la tecla T el zombie se telatransporta
 ![Gif consola](sesion1/examenviernessesion1ejer3.gif)
-### ejer4: Cuando el cubo se aproxima al cilindro, las esferas del grupo 1 cambian su color y saltan y las esferas del grupo 2 se orientan hacia un objeto ubicado en la escena con ese propósito.
+### ejer4: desplaza aleatoriamente las macetas cada vez que el monstruo esté a una distancia que fijes de la pizarra y le acerque las sillas una distancia prefijada.
 ![Gif consola](sesion1/examenviernessesion1ejer4.gif)
-### ejer5: Implementar la mecánica de recoger esferas en la escena que actualicen la puntuación del jugador. Las esferas de tipo 1 suman 5 puntos y las esferas de tipo 2 suman 10. Mostrar la puntuación en la consola.
+### ejer5: al alcanzar el monstruo alguna silla todas las arañas se dirijan a él.
 ![Gif consola](sesion1/examenviernessesion1ejer5.gif)
-### ejer6: configurar cardboard
+### ejer6: configurar cardboard.
 ![Gif consola](ejer5gif.gif)
